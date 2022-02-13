@@ -1,0 +1,38 @@
+Device: generic_x86_arm
+Version: 30
+Brand: google
+Model: sdk_gphone_x86
+Version: 1.0.0.0
+Device: unkown
+Board: goldfish_x86
+Desplay: RSR1.201013.001
+Fingerpring:
+google/sdk_gphone_x86/generic_x86_arm:11/RSR1.201013.001/6903271:user/release-keys
+Harware: ranchu
+Host: abfarm-us-west1-c-0089
+Id: RSR1.201013.001
+Manufacturer: Google
+Product: sdk_gphone_x86
+Tags: release-keys
+User: android-build
+PackageName: null
+ClassName: MagicDate
+PackageName: com.MagicDate
+Theme: android.content.res.Resources$Theme@42bc05
+Title: Magic Date
+Title Color: 0
+Search Event: null
+Immersive?: false
+Activity running: false
+Changing configuration?: false
+is Child?: false
+isDestroyed?: false
+Device protected storage?: false
+Finished running?: false
+Has multi window mode?: false
+is in picture mode?: false
+is task rook?: true
+Keyboard available: 1 
+Trackback available: 3
+SD Card state: mounted
+ 
